@@ -1,0 +1,37 @@
+<?xml-stylesheet type="text/xsl" href="http://ilivelearnteach.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://ilivelearnteach.github.io/</loc>
+    <lastmod>2020-12-14T01:15:42+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ilivelearnteach.github.io/post/my-first-post/</loc>
+    <lastmod>2020-12-14T01:15:42+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ilivelearnteach.github.io/post/</loc>
+    <lastmod>2020-12-14T01:15:42+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ilivelearnteach.github.io/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ilivelearnteach.github.io/tags/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>
